@@ -31,7 +31,7 @@ function page() {
                     <div className='space-y-4'>
                         <p className='infotext'>Trained to decline inappropriate requests</p>
                         <p className='infotext'>Messages are stored in Firebase's Firestore</p>
-                        <p className='infotext'>Hot Toast notifications when ChatGPT is thinking!</p>
+                        <p className='infotext'>Hot Toast notifications when Ithalli is thinking!</p>
                     </div>
                 </div>
 

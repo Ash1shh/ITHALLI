@@ -20,7 +20,7 @@ function Message({ message, isLast }: Props) {
           <TypeIt
             options={{
               strings: [`${message.text}`],
-              speed: 10,
+              speed: 20,
               waitUntilVisible: true,
             }}
           />

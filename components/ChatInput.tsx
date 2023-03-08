@@ -86,7 +86,7 @@ function ChatInput({ chatId }: Props) {
                     <ModelSelection />
                 </div>
             </div>
-            <h1 className='mx-[400px] text-xs mb-5 text-gray-300'>ithalli feb 10 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will help us improve.</h1>
+            <h1 className='mx-[400px] text-xs mb-5 text-gray-300'>ithalli feb 14 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will help us improve.</h1>
         </div>
     )
 }
